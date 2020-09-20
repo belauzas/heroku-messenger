@@ -1,0 +1,15 @@
+{
+  "name": "heroku-messenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Rimantas Belovas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
